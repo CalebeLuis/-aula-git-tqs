@@ -5,7 +5,7 @@ Dados do aluno
 -Cidade: Cidade De Maputo
 -O que faz nas horas vaga: Comer e Dormir
 -Feedback sobre a disciplina Teste e Qualidade de Software: Sem muito a dizer, é uma cadeira interessante!
--Feedback sobre a metodologia das aulas da disciplina: Muito interessante!
+-Feedback sobre a metodologia das aulas da disciplina: Muito interessante!!
 
 Obrigado!!!
 
